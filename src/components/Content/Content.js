@@ -1,6 +1,5 @@
 import './Content.css';
 import { GradientTitle } from '../GradientTitle/GradientTitle';
-import { IconButton } from '../IconButton/IconButton';
 import { Slider } from '../Slider/Slider';
 
 import Image_1 from '../../assets/images/Image_1.png';
