@@ -1,0 +1,7 @@
+.gradient-title {
+    display: inline-block;
+    background: var(--stripe, linear-gradient(101deg, #AB5BFB 0%, #7690EA 100%));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+}
