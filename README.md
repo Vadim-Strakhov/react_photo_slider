@@ -3,4 +3,4 @@
  - ### Проект доступен по ссылке - https://vadim-strakhov.github.io/react_photo_slider/
  - ### Технологии - `react`, `css`
 
-![React Фото Слайдер](react_photo_slider.png)
+![](react_photo_slider.png)
